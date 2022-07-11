@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+## Programming Language / Tools
+* Php
+  * codeignitor
+  * laravel
+* python
+* js
+  * jquery
